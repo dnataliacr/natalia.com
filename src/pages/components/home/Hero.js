@@ -15,6 +15,9 @@ const Hero = () => {
           playsInline
         />{" "}
       </div>
+      <div className="video-content">
+          <h1>W I P</h1>
+      </div>
     </div>
   );
 };
