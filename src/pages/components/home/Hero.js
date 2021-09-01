@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="video-row">
         <video
           src={video}
-          src={video}
+    
           type="video/mp4"
           autoPlay
           loop
